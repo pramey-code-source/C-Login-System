@@ -49,15 +49,13 @@ int main()
 
 		if(!status)
 		{
-			cout<<"False Logged in!!!!"<<endl;
-			system("PAUSE");
-			return 0;
+			cout<<""<<endl;
+			
 		}
 		else
 		{
-			cout<<"Successfully Logged in!!"<<endl;
-			system("PAUSE");
-			return 1;
+			cout<<""<<endl;
+			
 		}
 	}
 }
